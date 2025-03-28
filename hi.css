@@ -1,0 +1,5 @@
+body {
+    font-family: arial;
+    background: rgb(188,238,251);
+    background: radial-gradient(circle, rgba(188,238,251,1) 0%, rgba(224,255,255,1) 100%);
+}

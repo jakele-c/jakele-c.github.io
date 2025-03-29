@@ -1,5 +1,13 @@
 body {
-    font-family: arial;
     background: rgb(188,238,251);
     background: radial-gradient(circle, rgba(188,238,251,1) 0%, rgba(224,255,255,1) 100%);
+
+    h1 {color: royalblue; text-align: center; height: 20px; font: 40px 'Arial'}
+    h2 {color: black; text-align: center; height: 20px; font-size: 20px}
+    img {display: block; margin-left: auto; margin-right: auto; width: 500px; height: 500px;}
+    h3 {color: black; text-align: center; height: 20px; font: 20px}
+    .link-container {text-align: center; height:40px}
+
+    h4 {color: black; text-align: center; height: 20px; font-size: 30px}
+    h5 {color: black; text-align: center; height: 20px; font-size: 20px}
 }
